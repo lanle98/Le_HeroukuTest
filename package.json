@@ -2,7 +2,7 @@
   "name": "le__lan_heroukutest",
   "version": "1.0.0",
   "description": "This is a one page website using Heroku",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app"
   },
