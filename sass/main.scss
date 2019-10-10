@@ -1,11 +1,18 @@
-@import "modules/navbar.scss";
+//sass --watch sass:css --style compressed
 
 .hidden {
   display: none;
 }
 
-.overflow {
-  overflow: hidden;
+a {
+  font-size: 30px;
+  padding-top: 20px;
+}
+
+.logo {
+  background: blue;
+  width: 100%;
+  height: 100px;
 }
 
 body {
