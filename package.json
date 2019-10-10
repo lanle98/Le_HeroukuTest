@@ -1,0 +1,33 @@
+{
+  "name": "le__lan_heroukutest",
+  "version": "1.0.0",
+  "description": "This is a one page website using Heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanle98/Le__Lan_HeroukuTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanle98/Le__Lan_HeroukuTest/issues"
+  },
+  "homepage": "https://github.com/lanle98/Le__Lan_HeroukuTest#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.6.4",
+    "browser-sync": "^2.26.7",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^6.1.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.0.6",
+    "mysql": "^2.17.1"
+  }
+}

@@ -1,0 +1,15 @@
+@import "modules/navbar.scss";
+
+.hidden {
+  display: none;
+}
+
+.overflow {
+  overflow: hidden;
+}
+
+body {
+  background: #ffff;
+  max-width: 100vw;
+  overflow-x: hidden;
+}
